@@ -4,6 +4,7 @@ A basic decentraland scene with some extra directories and settings
 ## Requirements
 
 - Download NodeJS - https://nodejs.org/en/download/
+- Create Github account - https://github.com
 
 ## Recommended Apps
 - Download Github Desktop - https://desktop.github.com/
