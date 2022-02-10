@@ -1,0 +1,8 @@
+.DS_Store
+package-lock.json
+node_modules
+bin
+*.swp
+*.*~
+export
+*.spp
