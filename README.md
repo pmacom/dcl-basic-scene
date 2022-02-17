@@ -12,3 +12,9 @@ A basic decentraland scene with some extra directories and settings
 - Preview GLTF/GLB Files - https://sandbox.babylonjs.com/
 - Decentraland Docs - https://docs.decentraland.org/
 - Decentraland Awesome Repository - https://github.com/decentraland-scenes/Awesome-Repository
+
+# 3d Modeling Resources
+
+- Download Blender - https://www.blender.org/download/
+- Example 3d model - https://sketchfab.com/3d-models/smart-drone-76430ca6692b4238a54b5d12e90550c5
+- Blender GLTF Details - https://docs.blender.org/manual/en/2.80/addons/io_scene_gltf2.html
