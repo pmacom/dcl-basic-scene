@@ -18,3 +18,7 @@ A basic decentraland scene with some extra directories and settings
 - Download Blender - https://www.blender.org/download/
 - Example 3d model - https://sketchfab.com/3d-models/smart-drone-76430ca6692b4238a54b5d12e90550c5
 - Blender GLTF Details - https://docs.blender.org/manual/en/2.80/addons/io_scene_gltf2.html
+- Decentraland Wearable Docs - https://docs.decentraland.org/decentraland/creating-wearables/
+- Wearable Reference Moels - https://drive.google.com/drive/u/0/folders/12hOVgZsLriBuutoqGkIYEByJF8bA-rAU
+- Decentraland Wearable Assets - https://github.com/decentraland/avatar-assets/tree/master/assets
+- How to build wearables - https://www.youtube.com/watch?v=4Qd3BI6IYN4&ab_channel=KatherineJoelleWalker
