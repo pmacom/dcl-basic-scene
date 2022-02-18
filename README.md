@@ -22,3 +22,4 @@ A basic decentraland scene with some extra directories and settings
 - Wearable Reference Moels - https://drive.google.com/drive/u/0/folders/12hOVgZsLriBuutoqGkIYEByJF8bA-rAU
 - Decentraland Wearable Assets - https://github.com/decentraland/avatar-assets/tree/master/assets
 - How to build wearables - https://www.youtube.com/watch?v=4Qd3BI6IYN4&ab_channel=KatherineJoelleWalker
+- Official Material Docs - https://docs.decentraland.org/3d-modeling/materials/
